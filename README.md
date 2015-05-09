@@ -1,4 +1,3 @@
-# datasciencecoursera
-# This is an H1
-## This is an H2
+# This is a repo for The Data Scientist’s Toolbox
+## John Hopkins and Coursera
 
